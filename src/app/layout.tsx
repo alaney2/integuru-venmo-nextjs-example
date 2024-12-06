@@ -19,7 +19,7 @@ export default function RootLayout({
     <html lang="en">
       <head>
         <Script
-          src="https://cdn.jsdelivr.net/npm/@alanalanalan/integuru-login@0.4.0/link/1.0.0/link-initialize.js"
+          src="https://cdn.jsdelivr.net/npm/@alanalanalan/integuru-login@0.4.4/link/1.0.0/link-initialize.js"
           strategy="beforeInteractive"
         />
       </head>
